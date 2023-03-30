@@ -37,12 +37,12 @@ footer {
     font-size: .8em;
 }
 
-ul.posts { 
+.posts { 
     margin: 20px auto 40px; 
     font-size: 1.2em;
 }
 
-ul.posts li {
+.posts li {
     list-style: none;
 }
 
