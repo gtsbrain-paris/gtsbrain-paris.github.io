@@ -12,6 +12,7 @@ nav ul li, footer ul li {
     display: inline;
     font-size: 1.3em;
     margin-right: 20px;
+    font-weight: bold;
 }
 a {
     text-decoration: none;
