@@ -48,6 +48,7 @@ footer {
 
 ul {
     font-size: 1.2em;
+    display: list-item;
 }
 
 .team-member {
