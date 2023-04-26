@@ -6,12 +6,7 @@ body {
     margin: 60px auto;
     width: 70%;
 }
-nav ul, footer ul {
-    font-family: "Source Sans Pro";
-    padding: 0px;
-    list-style: none;
-    font-weight: bold;
-}
+
 nav ul li, footer ul li {
     font-family: "Source Sans Pro";
     display: inline;
