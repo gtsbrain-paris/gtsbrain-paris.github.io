@@ -42,11 +42,11 @@ footer {
     font-size: 1.2em;
 }
 
-.posts li {
+.posts {
     list-style: none;
 }
 
-ul {
+ul li {
     font-size: 1.2em;
     display: list-item;
 }
