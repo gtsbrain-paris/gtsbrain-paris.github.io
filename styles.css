@@ -10,7 +10,7 @@ body {
 nav ul li, footer ul li {
     font-family: "Source Sans Pro";
     display: inline;
-    font-size: 2em;
+    font-size: 1.75em;
     margin-right: 20px;
     font-weight: bold;
 }
