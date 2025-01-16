@@ -52,7 +52,7 @@ ul li {
   justify-content: space-between; /* Equal spacing between items */
   align-items: center;  /* Vertically center items if necessary */
   flex-wrap: wrap;      /* Allow wrapping if screen size is small */
-  gap: 20px;            /* Optional: Add some gap between the divs for spacing */
+  gap: 5px;            /* Optional: Add some gap between the divs for spacing */
 }
 
 .team-member {
